@@ -33,22 +33,19 @@ class WikiRetriever:
   def get_paragraph(self, subject, link):
     """ Return the first paragraph of the Wikipedia page. Only paragraphs
     with more than 50 characters are considered. """
-    try:
-      tree = etree.HTML(req.get(link).text)
-      self.articles[subject] = ''
-      for p in tree.xpath('.//div[@id="mw-content-text"]/div[@class="mw-parser-output"]/p'):
-        text = prettify(''.join(p.itertext()))
-        self.articles[subject] += text
-        logging.info(f'{subject}: paragraph added.')
-        if len(self.articles[subject]) < 500:
-          self.articles[subject] += ' '
-        else:
-          logging.info(f'{subject} has {len(self.articles[subject])} chars.')
-          return
-    except Exception as e:
-      logging.error(
-        f'An exception occurred while getting the paragraph of {subject}: {e}'
-      )
+    tree = etree.HTML(req.get(link).text)
+    self.articles[subject] = ''
+    for p in tree.xpath(
+        '//div[@id="mw-content-text"]/div[@class="mw-parser-output"]/p'
+      ):
+      text = prettify(''.join(p.itertext('i','b','a')))
+      self.articles[subject] += text
+      logging.info(f'{subject}: paragraph added.')
+      if len(self.articles[subject]) < 500:
+        self.articles[subject] += ' '
+      else:
+        logging.info(f'{subject} has {len(self.articles[subject])} chars.')
+        return
         
   def dump(self):
     json.dump(self.articles, open(self.dump_file, 'w'))
@@ -83,4 +80,3 @@ if __name__ == '__main__':
   retriever = WikiRetriever(subjects_file, dump_file)
   retriever.get_articles()
   retriever.dump()
-  test()
