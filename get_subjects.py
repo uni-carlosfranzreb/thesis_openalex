@@ -59,13 +59,14 @@ class SubjectRetriever:
         logging.info(f'No more subjects under {ancestor_id} on lv {level}')
         return
       for subject in res.json()['results']:
-        if subject['works_count'] > works_limit:
-          self.add_subject(subject)
-          self.counts[ancestor_id] += 1
-          logging.info(f'{subject["id"]} added under {ancestor_id}')
-          if self.counts[ancestor_id] == n:
-            logging.info(f'All {n} subjects retrieved for {ancestor_id}')
-            return
+        if subject['description'] != "Wikimedia disambiguation page":
+          if subject['works_count'] > works_limit:
+            self.add_subject(subject)
+            self.counts[ancestor_id] += 1
+            logging.info(f'{subject["id"]} added under {ancestor_id}')
+            if self.counts[ancestor_id] == n:
+              logging.info(f'All {n} subjects retrieved for {ancestor_id}')
+              return
       page += 1
   
   def add_subject(self, subject):
@@ -97,5 +98,5 @@ if __name__ == '__main__':
   )
   retriever = SubjectRetriever()
   retriever.retrieve()
-  retriever.dump_subjects('data/openalex/subjects.json')
+  retriever.dump_subjects('data/openalex/new_subjects.json')
   # ! sort:desc ist not a valid parameter
