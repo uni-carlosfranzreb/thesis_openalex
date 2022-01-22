@@ -45,7 +45,7 @@ class WikiRetriever:
     for p in tree.xpath(
         '//div[@id="mw-content-text"]/div[@class="mw-parser-output"]/p'
       ):
-      text = prettify(''.join(p.itertext('i','b','a')))
+      text = prettify(''.join(p.itertext('p', 'i', 'b', 'a')))
       self.articles[subject] += text
       logging.info(f'{subject}: paragraph added.')
       if len(self.articles[subject]) < 500:
@@ -78,13 +78,16 @@ def test():
 
 
 if __name__ == '__main__':
-  logging.basicConfig(
-    level=logging.INFO,
-    filename=f'logs/get_articles_{int(time())}.log'
-  )
+  # logging.basicConfig(
+  #   level=logging.INFO,
+  #   filename=f'logs/get_articles_{int(time())}.log'
+  # )
   subjects_file = 'data/openalex/subjects.json'
   dump_file = 'data/openalex/articles.json'
   retriever = WikiRetriever(subjects_file, dump_file)
-  retriever.get_articles()
-  retriever.dump()
+  # retriever.get_articles()
+  # retriever.dump()
+  endogeny = 'https://en.wikipedia.org/wiki/Endogeny_(biology)'
+  retriever.get_paragraph('endogeny', endogeny)
+  print(retriever.articles)
   # test()
