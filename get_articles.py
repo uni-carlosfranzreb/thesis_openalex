@@ -20,14 +20,15 @@ class WikiRetriever:
   
   def get_articles(self):
     for subject, data in self.subjects.items():
-      wikidata = req.get(data['wikidata']).text
-      links = re.findall(self.enwiki, wikidata)
-      if len(links) == 0:
-        logging.info(f'{subject} has no Wikipedia link')
-      elif len(links) > 2:
-        logging.info(f'{subject} has multiple Wikipedia links')
-      else:
-        self.get_paragraph(subject, links[0])
+      link = self.get_link(req.get(data['wikidata']).text)
+      self.get_paragraph(subject, link)
+  
+  def get_link(self, wikidata):
+    """ Retrieve the English Wikipedia link from the Wikidata page. """
+    tree = etree.HTML(wikidata)
+    table = tree.xpath('//table[@class="wikibase-entitytermsforlanguagelistview"]')[0]
+    a = table.xpath('//span[contains(@class, "wikibase-sitelinkview-link-enwiki")]//a')[0]
+    return a.get('href')
   
   def get_paragraph(self, subject, link):
     """ Return the first paragraph of the Wikipedia page. Only paragraphs
