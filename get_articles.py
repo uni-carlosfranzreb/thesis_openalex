@@ -7,7 +7,7 @@ import logging
 import re
 from time import time
 
-from bs4 import BeautifulSoup
+from lxml import etree
 import requests as req
 
 
@@ -33,23 +33,31 @@ class WikiRetriever:
     """ Return the first paragraph of the Wikipedia page. Only paragraphs
     with more than 50 characters are considered. """
     try:
-      soup = BeautifulSoup(req.get(link).text, features="lxml")
-      for paragraph in soup.find_all('p'):
-        if len(paragraph.text) > 50:
-          text = paragraph.text.replace('\n', '')
-          text = re.sub('\[[0-9]+\]', '', text)
-          text = re.sub('\[[a-z]\]', '', text)
-          text = re.sub('\[i+\]', '', text)
-          self.articles[subject] = text
-          logging.info(f'Article of {subject} added.')
+      tree = etree.HTML(req.get(link).text)
+      self.articles[subject] = ''
+      for p in tree.xpath('.//div[@id="mw-content-text"]/div[@class="mw-parser-output"]/p'):
+        text = prettify(''.join(p.itertext()))
+        self.articles[subject] += text
+        logging.info(f'{subject}: paragraph added.')
+        if len(self.articles[subject]) < 500:
+          self.articles[subject] += ' '
+        else:
+          logging.info(f'{subject} has {len(self.articles[subject])} chars.')
           return
     except Exception as e:
       logging.error(
         f'An exception occurred while getting the paragraph of {subject}: {e}'
       )
-  
+        
   def dump(self):
     json.dump(self.articles, open(self.dump_file, 'w'))
+  
+def prettify(text):
+  """ Remove references and newlines. """
+  text = text.replace('\n', '')
+  text = re.sub('\[[0-9]+\]', '', text)
+  text = re.sub('\[[a-z]\]', '', text)
+  return re.sub('\[i+\]', '', text)  
 
 
 def test():
@@ -65,13 +73,13 @@ def test():
 
 
 if __name__ == '__main__':
-  # logging.basicConfig(
-  #   level=logging.INFO,
-  #   filename=f'logs/get_articles_{int(time())}.log'
-  # )
-  # subjects_file = 'data/openalex/subjects.json'
-  # dump_file = 'data/openalex/articles.json'
-  # retriever = WikiRetriever(subjects_file, dump_file)
-  # retriever.get_articles()
-  # retriever.dump()
+  logging.basicConfig(
+    level=logging.INFO,
+    filename=f'logs/get_articles_{int(time())}.log'
+  )
+  subjects_file = 'data/openalex/subjects.json'
+  dump_file = 'data/openalex/articles.json'
+  retriever = WikiRetriever(subjects_file, dump_file)
+  retriever.get_articles()
+  retriever.dump()
   test()
