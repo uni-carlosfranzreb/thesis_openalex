@@ -59,7 +59,8 @@ class SubjectRetriever:
         logging.info(f'No more subjects under {ancestor_id} on lv {level}')
         return
       for subject in res.json()['results']:
-        if subject['description'] != "Wikimedia disambiguation page":
+        if subject['description'] != "Wikimedia disambiguation page" and \
+            subject['description'] != 'Wikimedia glossary list article':
           if subject['works_count'] > works_limit:
             self.add_subject(subject)
             self.counts[ancestor_id] += 1
