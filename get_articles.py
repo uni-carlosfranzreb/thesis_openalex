@@ -52,13 +52,26 @@ class WikiRetriever:
     json.dump(self.articles, open(self.dump_file, 'w'))
 
 
-if __name__ == '__main__':
+def test():
   logging.basicConfig(
     level=logging.INFO,
-    filename=f'logs/get_articles_{int(time())}.log'
+    filename=f'logs/test_get_articles_{int(time())}.log'
   )
-  subjects_file = 'data/openalex/subjects.json'
-  dump_file = 'data/openalex/articles.json'
+  subjects_file = 'data/openalex/test/test_subjects.json'
+  dump_file = 'data/openalex/test/test_articles.json'
   retriever = WikiRetriever(subjects_file, dump_file)
   retriever.get_articles()
   retriever.dump()
+
+
+if __name__ == '__main__':
+  # logging.basicConfig(
+  #   level=logging.INFO,
+  #   filename=f'logs/get_articles_{int(time())}.log'
+  # )
+  # subjects_file = 'data/openalex/subjects.json'
+  # dump_file = 'data/openalex/articles.json'
+  # retriever = WikiRetriever(subjects_file, dump_file)
+  # retriever.get_articles()
+  # retriever.dump()
+  test()
