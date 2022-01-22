@@ -21,14 +21,20 @@ class WikiRetriever:
   def get_articles(self):
     for subject, data in self.subjects.items():
       link = self.get_link(req.get(data['wikidata']).text)
+      if link is None:
+        logging.info(f'{subject}: no link found. Description will be used.')
+        self.articles[subject] = data['description']
       self.get_paragraph(subject, link)
   
   def get_link(self, wikidata):
     """ Retrieve the English Wikipedia link from the Wikidata page. """
     tree = etree.HTML(wikidata)
-    table = tree.xpath('//table[@class="wikibase-entitytermsforlanguagelistview"]')[0]
-    a = table.xpath('//span[contains(@class, "wikibase-sitelinkview-link-enwiki")]//a')[0]
-    return a.get('href')
+    try:
+      table = tree.xpath('//table[@class="wikibase-entitytermsforlanguagelistview"]')[0]
+      a = table.xpath('//span[contains(@class, "wikibase-sitelinkview-link-enwiki")]//a')[0]
+      return a.get('href')
+    except IndexError as e:
+      return None
   
   def get_paragraph(self, subject, link):
     """ Return the first paragraph of the Wikipedia page. Only paragraphs
@@ -80,3 +86,4 @@ if __name__ == '__main__':
   retriever = WikiRetriever(subjects_file, dump_file)
   retriever.get_articles()
   retriever.dump()
+  # test()
