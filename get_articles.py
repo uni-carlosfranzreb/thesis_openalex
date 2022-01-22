@@ -41,7 +41,7 @@ class WikiRetriever:
           text = re.sub('\[[a-z]\]', '', text)
           text = re.sub('\[i+\]', '', text)
           self.articles[subject] = text
-          logging.info(f'Artice of {subject} added.')
+          logging.info(f'Article of {subject} added.')
           return
     except Exception as e:
       logging.error(
