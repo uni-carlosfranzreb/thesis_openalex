@@ -24,7 +24,8 @@ class WikiRetriever:
       if link is None:
         logging.info(f'{subject}: no link found. Description will be used.')
         self.articles[subject] = data['description']
-      self.get_paragraph(subject, link)
+      else:
+        self.get_paragraph(subject, link)
   
   def get_link(self, wikidata):
     """ Retrieve the English Wikipedia link from the Wikidata page. """
