@@ -44,11 +44,12 @@ class DocRetriever:
         if abstract is not None:
           yield {
             'data': self.process_texts(doc['display_name'], abstract),
-            'subjects': {s['id']: s['score'] for s in doc['concepts']},
-            'type': doc['type']
+            'subjects': {s['id']: s['score'] for s in doc['concepts']}
           }
-      page += 1
       yielded += 1
+          if yielded == n:
+            return
+      page += 1
 
   def process_texts(self, title, abstract_idx):
     """ Lower-case the string, lemmatize the words and remove those that don't
