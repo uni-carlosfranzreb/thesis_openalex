@@ -112,4 +112,4 @@ def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
 if __name__ == '__main__':
   vocab_file = 'data/vocab/vocab.json'
   subjects_file = 'data/openalex/subjects.json'
-  main(vocab_file, subjects_file, n_docs=10, n_file=20)
+  main(vocab_file, subjects_file)
