@@ -22,7 +22,6 @@ from nltk.corpus import stopwords, wordnet
 class DocRetriever:
   def __init__(self, vocab_file):
     self.vocab = json.load(open(vocab_file))
-    self.cnt = 0
     self.tokenizer = SpacyTokenizer('en_core_web_sm')
     self.lemmatizer = WordNetLemmatizer()
     self.tagger = SequenceTagger.load('upos-fast')
@@ -46,7 +45,7 @@ class DocRetriever:
             'data': self.process_texts(doc['display_name'], abstract),
             'subjects': {s['id']: s['score'] for s in doc['concepts']}
           }
-      yielded += 1
+          yielded += 1
           if yielded == n:
             return
       page += 1
@@ -85,13 +84,32 @@ class DocRetriever:
         if i in abstract_idx[word]:
           text += word + ' '
     return text
+  
+
+def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
+  """ Retrieve 'n_docs' docs for each subject and dump them in the folder
+  'data/openalex/docs', with 'n_file' docs per file. n_docs should be a
+  factor of n_file. We only check n_file after each subject is done. It can
+  occur that a file has more than n_file docs, but never less. """
+  retriever = DocRetriever(vocab_file)
+  subjects = json.load(open(subjects_file))
+  batch = {}
+  cnt, file_nr = 0, 1
+  for subject, data in subjects.items():
+    batch[subject] = []
+    for doc in retriever.get_docs(data['works_api_url'], n_docs):
+      batch[subject].append(doc)
+    cnt += len(batch[subject])
+    if cnt >= n_file:
+      json.dump(batch, open(f'data/openalex/docs/{file_nr}.json', 'w'))
+      file_nr += 1
+      cnt = 0
+      batch = {}
+  if len(batch) > 0:
+    json.dump(batch, open(f'data/openalex/docs/{file_nr}.json', 'w'))
 
 
 if __name__ == '__main__':
-  works_api_url = 'https://api.openalex.org/works?filter=concept.id:C518881349'
   vocab_file = 'data/vocab/vocab.json'
-  retriever = DocRetriever(vocab_file)
-  for doc in retriever.get_docs(works_api_url):
-    print(doc)
-    break
-  # ! Why is "-" in the vocab?
+  subjects_file = 'data/openalex/subjects.json'
+  main(vocab_file, subjects_file, n_docs=10, n_file=20)
