@@ -9,6 +9,8 @@ import requests as req
 import json
 from collections import Counter
 from os import listdir
+import logging
+from time import time
 
 from flair.data import Sentence
 from flair.tokenization import SpacyTokenizer
@@ -37,7 +39,13 @@ class DocRetriever:
     yielded, page = 0, 1
     url += ',type:journal-article&page='
     while yielded < n:
-      for doc in req.get(f'{url}{page}').json()['results']:
+      res = req.get(f'{url}{page}').json()
+      if 'results' not in res:
+        logging.error(f'No results: {res}')
+        logging.info(f'{yielded} docs were found.')
+        return
+      logging.info(f'Fetched page {page}')
+      for doc in res['results']:
         abstract = doc['abstract_inverted_index']
         if abstract is not None:
           yield {
@@ -46,6 +54,7 @@ class DocRetriever:
           }
           yielded += 1
           if yielded == n:
+            logging.info(f'{yielded} docs were found.')
             return
       page += 1
 
@@ -92,12 +101,14 @@ def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
   occur that a file has more than n_file docs, but never less. """
   retriever = DocRetriever(vocab_file)
   subjects = json.load(open(subjects_file))
-  done = get_done_subjects(subjects)
+  done = get_done_subjects()
+  logging.info(f'{len(done)} subjects have been retrieved already.')
   batch = {}
   cnt, file_nr = 0, 1
   for subject, data in subjects.items():
     if subject in done:
       continue
+    logging.info(f'Retrieving docs for {subject}')
     batch[subject] = []
     for doc in retriever.get_docs(data['works_api_url'], n_docs):
       batch[subject].append(doc)
@@ -111,7 +122,7 @@ def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
     json.dump(batch, open(f'data/openalex/docs/{file_nr}.json', 'w'))
 
 
-def get_done_subjects(subjects):
+def get_done_subjects():
   """ Return the subjects for which the documents have already been
   retrieved. They will be removed from the subject dict. """
   done = []
@@ -121,6 +132,10 @@ def get_done_subjects(subjects):
 
 
 if __name__ == '__main__':
+  logging.basicConfig(
+    level=logging.INFO,
+    filename=f'logs/get_publications_{int(time())}.log'
+  )
   vocab_file = 'data/vocab/vocab.json'
   subjects_file = 'data/openalex/subjects.json'
   main(vocab_file, subjects_file)
