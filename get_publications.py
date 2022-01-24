@@ -38,25 +38,26 @@ class DocRetriever:
     that are either publications. n is the number of docs that will be yielded. """
     yielded, page = 0, 1
     url += ',type:journal-article&page='
-    while yielded < n:
-      res = req.get(f'{url}{page}').json()
-      if 'results' not in res:
-        logging.error(f'No results: {res}')
-        logging.info(f'{yielded} docs were found.')
-        return
-      logging.info(f'Fetched page {page}')
-      for doc in res['results']:
-        abstract = doc['abstract_inverted_index']
-        if abstract is not None:
-          yield {
-            'data': self.process_texts(doc['display_name'], abstract),
-            'subjects': {s['id']: s['score'] for s in doc['concepts']}
-          }
-          yielded += 1
-          if yielded == n:
-            logging.info(f'{yielded} docs were found.')
-            return
-      page += 1
+    try:
+      while yielded < n:
+        res = req.get(f'{url}{page}').json()
+        logging.info(f'Fetched page {page}')
+        for doc in res['results']:
+          abstract = doc['abstract_inverted_index']
+          if abstract is not None:
+            yield {
+              'data': self.process_texts(doc['display_name'], abstract),
+              'subjects': {s['id']: s['score'] for s in doc['concepts']}
+            }
+            yielded += 1
+            if yielded == n:
+              logging.info(f'{yielded} docs were found.')
+              return
+        page += 1
+    except Exception as e:
+      logging.error(f'An error occurred: {e}')
+      logging.info(f'{yielded} docs were found.')
+      return
 
   def process_texts(self, title, abstract_idx):
     """ Lower-case the string, lemmatize the words and remove those that don't
