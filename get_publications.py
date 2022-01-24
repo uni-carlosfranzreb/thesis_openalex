@@ -7,16 +7,15 @@ file. """
 
 import requests as req
 import json
-import logging
 from collections import Counter
+from os import listdir
 
 from flair.data import Sentence
 from flair.tokenization import SpacyTokenizer
 from flair.models import SequenceTagger
 
 from nltk.stem import WordNetLemmatizer
-from nltk.util import ngrams
-from nltk.corpus import stopwords, wordnet
+from nltk.corpus import wordnet
 
 
 class DocRetriever:
@@ -93,9 +92,12 @@ def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
   occur that a file has more than n_file docs, but never less. """
   retriever = DocRetriever(vocab_file)
   subjects = json.load(open(subjects_file))
+  done = get_done_subjects(subjects)
   batch = {}
   cnt, file_nr = 0, 1
   for subject, data in subjects.items():
+    if subject in done:
+      continue
     batch[subject] = []
     for doc in retriever.get_docs(data['works_api_url'], n_docs):
       batch[subject].append(doc)
@@ -107,6 +109,15 @@ def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
       batch = {}
   if len(batch) > 0:
     json.dump(batch, open(f'data/openalex/docs/{file_nr}.json', 'w'))
+
+
+def get_done_subjects(subjects):
+  """ Return the subjects for which the documents have already been
+  retrieved. They will be removed from the subject dict. """
+  done = []
+  for file in listdir('data/openalex/docs'):
+    done += [s for s in json.load(open(f'data/openalex/docs/{file}'))]
+  return done
 
 
 if __name__ == '__main__':
