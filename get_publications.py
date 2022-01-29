@@ -33,9 +33,11 @@ class DocRetriever:
       'ADV': wordnet.ADV
     }
   
-  def get_docs(self, url, n=50):
+  def get_docs(self, url, n=50, process=False):
     """ Given the URL leading to the documents of a subject, yield documents
-    that are either publications. n is the number of docs that will be yielded. """
+    that are either publications. n is the number of docs that will be yielded.
+    If process=True, the texts will be tokenized, lemmatized and mapped against
+    a vocabulary before being yielded. """
     yielded, page = 0, 1
     url += ',type:journal-article&page='
     try:
@@ -43,10 +45,13 @@ class DocRetriever:
         res = req.get(f'{url}{page}').json()
         logging.info(f'Fetched page {page}')
         for doc in res['results']:
-          abstract = doc['abstract_inverted_index']
-          if abstract is not None:
+          abstract_idx = doc['abstract_inverted_index']
+          if abstract_idx is not None:
+            abstract = self.build_abstract(abstract_idx)
+            text = self.append_texts(doc['display_name'], abstract)
+            data = self.process_text(text) if process is True else text
             yield {
-              'data': self.process_texts(doc['display_name'], abstract),
+              'data': data,
               'subjects': {s['id']: s['score'] for s in doc['concepts']}
             }
             yielded += 1
@@ -59,15 +64,12 @@ class DocRetriever:
       logging.info(f'{yielded} docs were found.')
       return
 
-  def process_texts(self, title, abstract_idx):
+  def process_text(self, text):
     """ Lower-case the string, lemmatize the words and remove those that don't
     appear in the vocab. Return the list of remaining words ordered by freq.
     and by order in the text when tied, without duplicates. Merge title and
     abstract after building the abstract from the index. """
-    abstract = self.build_abstract(abstract_idx)
-    if abstract[-2:] != '. ':
-      abstract += '. '
-    sentence = Sentence(abstract + title)
+    sentence = Sentence(text)
     self.tagger.predict(sentence)
     lemmas = []
     for token in sentence:
@@ -93,6 +95,16 @@ class DocRetriever:
         if i in abstract_idx[word]:
           text += word + ' '
     return text
+  
+  def append_texts(self, title, abstract):
+    """ Append the abstract to the text. If the title ends in a score,
+    just add them. If not, add the score first. """
+    if title[-1] == '.':
+      return title + ' ' + abstract
+    elif title[-2:] == '. ':
+      return title + abstract
+    else:
+      return title + '. ' + abstract
   
 
 def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
@@ -140,3 +152,5 @@ if __name__ == '__main__':
   vocab_file = 'data/vocab/vocab.json'
   subjects_file = 'data/openalex/subjects.json'
   main(vocab_file, subjects_file)
+  retriever = DocRetriever(vocab_file)
+  subjects = json.load(open(subjects_file))
