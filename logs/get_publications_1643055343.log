@@ -1,0 +1,5322 @@
+INFO:root:1354 subjects have been retrieved already.
+INFO:root:Retrieving docs for https://openalex.org/C58471807
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778476105
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C103824480
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777052490
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C31601959
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C29202148
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C165696696
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:Fetched page 7
+INFO:root:Fetched page 8
+INFO:root:Fetched page 9
+INFO:root:Fetched page 10
+INFO:root:Fetched page 11
+INFO:root:Fetched page 12
+INFO:root:Fetched page 13
+INFO:root:Fetched page 14
+INFO:root:Fetched page 15
+INFO:root:Fetched page 16
+INFO:root:Fetched page 17
+INFO:root:Fetched page 18
+INFO:root:Fetched page 19
+INFO:root:Fetched page 20
+INFO:root:Fetched page 21
+INFO:root:Fetched page 22
+INFO:root:Fetched page 23
+INFO:root:Fetched page 24
+INFO:root:Fetched page 25
+INFO:root:Fetched page 26
+INFO:root:Fetched page 27
+INFO:root:Fetched page 28
+INFO:root:Fetched page 29
+INFO:root:Fetched page 30
+INFO:root:Fetched page 31
+INFO:root:Fetched page 32
+INFO:root:Fetched page 33
+INFO:root:Fetched page 34
+INFO:root:Fetched page 35
+INFO:root:Fetched page 36
+INFO:root:Fetched page 37
+INFO:root:Fetched page 38
+INFO:root:Fetched page 39
+INFO:root:Fetched page 40
+INFO:root:Fetched page 41
+INFO:root:Fetched page 42
+INFO:root:Fetched page 43
+INFO:root:Fetched page 44
+INFO:root:Fetched page 45
+INFO:root:Fetched page 46
+INFO:root:Fetched page 47
+INFO:root:Fetched page 48
+INFO:root:Fetched page 49
+INFO:root:Fetched page 50
+INFO:root:Fetched page 51
+INFO:root:Fetched page 52
+INFO:root:Fetched page 53
+INFO:root:Fetched page 54
+INFO:root:Fetched page 55
+INFO:root:Fetched page 56
+INFO:root:Fetched page 57
+INFO:root:Fetched page 58
+INFO:root:Fetched page 59
+INFO:root:Fetched page 60
+INFO:root:Fetched page 61
+INFO:root:Fetched page 62
+INFO:root:Fetched page 63
+INFO:root:Fetched page 64
+INFO:root:Fetched page 65
+INFO:root:Fetched page 66
+INFO:root:Fetched page 67
+INFO:root:Fetched page 68
+INFO:root:Fetched page 69
+INFO:root:Fetched page 70
+INFO:root:Fetched page 71
+INFO:root:Fetched page 72
+INFO:root:Fetched page 73
+INFO:root:Fetched page 74
+INFO:root:Fetched page 75
+INFO:root:Fetched page 76
+INFO:root:Fetched page 77
+INFO:root:Fetched page 78
+INFO:root:Fetched page 79
+INFO:root:Fetched page 80
+INFO:root:Fetched page 81
+INFO:root:Fetched page 82
+INFO:root:Fetched page 83
+INFO:root:Fetched page 84
+INFO:root:Fetched page 85
+INFO:root:Fetched page 86
+INFO:root:Fetched page 87
+INFO:root:Fetched page 88
+INFO:root:Fetched page 89
+INFO:root:Fetched page 90
+INFO:root:Fetched page 91
+INFO:root:Fetched page 92
+INFO:root:Fetched page 93
+INFO:root:Fetched page 94
+INFO:root:Fetched page 95
+INFO:root:Fetched page 96
+INFO:root:Fetched page 97
+INFO:root:Fetched page 98
+INFO:root:Fetched page 99
+INFO:root:Fetched page 100
+INFO:root:Fetched page 101
+INFO:root:Fetched page 102
+INFO:root:Fetched page 103
+INFO:root:Fetched page 104
+INFO:root:Fetched page 105
+INFO:root:Fetched page 106
+INFO:root:Fetched page 107
+INFO:root:Fetched page 108
+INFO:root:Fetched page 109
+INFO:root:Fetched page 110
+INFO:root:Fetched page 111
+INFO:root:Fetched page 112
+INFO:root:Fetched page 113
+INFO:root:Fetched page 114
+INFO:root:Fetched page 115
+INFO:root:Fetched page 116
+INFO:root:Fetched page 117
+INFO:root:Fetched page 118
+INFO:root:Fetched page 119
+INFO:root:Fetched page 120
+INFO:root:Fetched page 121
+INFO:root:Fetched page 122
+INFO:root:Fetched page 123
+INFO:root:Fetched page 124
+INFO:root:Fetched page 125
+INFO:root:Fetched page 126
+INFO:root:Fetched page 127
+INFO:root:Fetched page 128
+INFO:root:Fetched page 129
+INFO:root:Fetched page 130
+INFO:root:Fetched page 131
+INFO:root:Fetched page 132
+INFO:root:Fetched page 133
+INFO:root:Fetched page 134
+INFO:root:Fetched page 135
+INFO:root:Fetched page 136
+INFO:root:Fetched page 137
+INFO:root:Fetched page 138
+INFO:root:Fetched page 139
+INFO:root:Fetched page 140
+INFO:root:Fetched page 141
+INFO:root:Fetched page 142
+INFO:root:Fetched page 143
+INFO:root:Fetched page 144
+INFO:root:Fetched page 145
+INFO:root:Fetched page 146
+INFO:root:Fetched page 147
+INFO:root:Fetched page 148
+INFO:root:Fetched page 149
+INFO:root:Fetched page 150
+INFO:root:Fetched page 151
+INFO:root:Fetched page 152
+INFO:root:Fetched page 153
+INFO:root:Fetched page 154
+INFO:root:Fetched page 155
+INFO:root:Fetched page 156
+INFO:root:Fetched page 157
+INFO:root:Fetched page 158
+INFO:root:Fetched page 159
+INFO:root:Fetched page 160
+INFO:root:Fetched page 161
+INFO:root:Fetched page 162
+INFO:root:Fetched page 163
+INFO:root:Fetched page 164
+INFO:root:Fetched page 165
+INFO:root:Fetched page 166
+INFO:root:Fetched page 167
+INFO:root:Fetched page 168
+INFO:root:Fetched page 169
+INFO:root:Fetched page 170
+INFO:root:Fetched page 171
+INFO:root:Fetched page 172
+INFO:root:Fetched page 173
+INFO:root:Fetched page 174
+INFO:root:Fetched page 175
+INFO:root:Fetched page 176
+INFO:root:Fetched page 177
+INFO:root:Fetched page 178
+INFO:root:Fetched page 179
+INFO:root:Fetched page 180
+INFO:root:Fetched page 181
+INFO:root:Fetched page 182
+INFO:root:Fetched page 183
+INFO:root:Fetched page 184
+INFO:root:Fetched page 185
+INFO:root:Fetched page 186
+INFO:root:Fetched page 187
+INFO:root:Fetched page 188
+INFO:root:Fetched page 189
+INFO:root:Fetched page 190
+INFO:root:Fetched page 191
+INFO:root:Fetched page 192
+INFO:root:Fetched page 193
+INFO:root:Fetched page 194
+INFO:root:Fetched page 195
+INFO:root:Fetched page 196
+INFO:root:Fetched page 197
+INFO:root:Fetched page 198
+INFO:root:Fetched page 199
+INFO:root:Fetched page 200
+INFO:root:Fetched page 201
+INFO:root:Fetched page 202
+INFO:root:Fetched page 203
+INFO:root:Fetched page 204
+INFO:root:Fetched page 205
+INFO:root:Fetched page 206
+INFO:root:Fetched page 207
+INFO:root:Fetched page 208
+INFO:root:Fetched page 209
+INFO:root:Fetched page 210
+INFO:root:Fetched page 211
+INFO:root:Fetched page 212
+INFO:root:Fetched page 213
+INFO:root:Fetched page 214
+INFO:root:Fetched page 215
+INFO:root:Fetched page 216
+INFO:root:Fetched page 217
+INFO:root:Fetched page 218
+INFO:root:Fetched page 219
+INFO:root:Fetched page 220
+INFO:root:Fetched page 221
+INFO:root:Fetched page 222
+INFO:root:Fetched page 223
+INFO:root:Fetched page 224
+INFO:root:Fetched page 225
+INFO:root:Fetched page 226
+INFO:root:Fetched page 227
+INFO:root:Fetched page 228
+INFO:root:Fetched page 229
+INFO:root:Fetched page 230
+INFO:root:Fetched page 231
+INFO:root:Fetched page 232
+INFO:root:Fetched page 233
+INFO:root:Fetched page 234
+INFO:root:Fetched page 235
+INFO:root:Fetched page 236
+INFO:root:Fetched page 237
+INFO:root:Fetched page 238
+INFO:root:Fetched page 239
+INFO:root:Fetched page 240
+INFO:root:Fetched page 241
+INFO:root:Fetched page 242
+INFO:root:Fetched page 243
+INFO:root:Fetched page 244
+INFO:root:Fetched page 245
+INFO:root:Fetched page 246
+INFO:root:Fetched page 247
+INFO:root:Fetched page 248
+INFO:root:Fetched page 249
+INFO:root:Fetched page 250
+INFO:root:Fetched page 251
+INFO:root:Fetched page 252
+INFO:root:Fetched page 253
+INFO:root:Fetched page 254
+INFO:root:Fetched page 255
+INFO:root:Fetched page 256
+INFO:root:Fetched page 257
+INFO:root:Fetched page 258
+INFO:root:Fetched page 259
+INFO:root:Fetched page 260
+INFO:root:Fetched page 261
+INFO:root:Fetched page 262
+INFO:root:Fetched page 263
+INFO:root:Fetched page 264
+INFO:root:Fetched page 265
+INFO:root:Fetched page 266
+INFO:root:Fetched page 267
+INFO:root:Fetched page 268
+INFO:root:Fetched page 269
+INFO:root:Fetched page 270
+INFO:root:Fetched page 271
+INFO:root:Fetched page 272
+INFO:root:Fetched page 273
+INFO:root:Fetched page 274
+INFO:root:Fetched page 275
+INFO:root:Fetched page 276
+INFO:root:Fetched page 277
+INFO:root:Fetched page 278
+INFO:root:Fetched page 279
+INFO:root:Fetched page 280
+INFO:root:Fetched page 281
+INFO:root:Fetched page 282
+INFO:root:Fetched page 283
+INFO:root:Fetched page 284
+INFO:root:Fetched page 285
+INFO:root:Fetched page 286
+INFO:root:Fetched page 287
+INFO:root:Fetched page 288
+INFO:root:Fetched page 289
+INFO:root:Fetched page 290
+INFO:root:Fetched page 291
+INFO:root:Fetched page 292
+INFO:root:Fetched page 293
+INFO:root:Fetched page 294
+INFO:root:Fetched page 295
+INFO:root:Fetched page 296
+INFO:root:Fetched page 297
+INFO:root:Fetched page 298
+INFO:root:Fetched page 299
+INFO:root:Fetched page 300
+INFO:root:Fetched page 301
+INFO:root:Fetched page 302
+INFO:root:Fetched page 303
+INFO:root:Fetched page 304
+INFO:root:Fetched page 305
+INFO:root:Fetched page 306
+INFO:root:Fetched page 307
+INFO:root:Fetched page 308
+INFO:root:Fetched page 309
+INFO:root:Fetched page 310
+INFO:root:Fetched page 311
+INFO:root:Fetched page 312
+INFO:root:Fetched page 313
+INFO:root:Fetched page 314
+INFO:root:Fetched page 315
+INFO:root:Fetched page 316
+INFO:root:Fetched page 317
+INFO:root:Fetched page 318
+INFO:root:Fetched page 319
+INFO:root:Fetched page 320
+INFO:root:Fetched page 321
+INFO:root:Fetched page 322
+INFO:root:Fetched page 323
+INFO:root:Fetched page 324
+INFO:root:Fetched page 325
+INFO:root:Fetched page 326
+INFO:root:Fetched page 327
+INFO:root:Fetched page 328
+INFO:root:Fetched page 329
+INFO:root:Fetched page 330
+INFO:root:Fetched page 331
+INFO:root:Fetched page 332
+INFO:root:Fetched page 333
+INFO:root:Fetched page 334
+INFO:root:Fetched page 335
+INFO:root:Fetched page 336
+INFO:root:Fetched page 337
+INFO:root:Fetched page 338
+INFO:root:Fetched page 339
+INFO:root:Fetched page 340
+INFO:root:Fetched page 341
+INFO:root:Fetched page 342
+INFO:root:Fetched page 343
+INFO:root:Fetched page 344
+INFO:root:Fetched page 345
+INFO:root:Fetched page 346
+INFO:root:Fetched page 347
+INFO:root:Fetched page 348
+INFO:root:Fetched page 349
+INFO:root:Fetched page 350
+INFO:root:Fetched page 351
+INFO:root:Fetched page 352
+INFO:root:Fetched page 353
+INFO:root:Fetched page 354
+INFO:root:Fetched page 355
+INFO:root:Fetched page 356
+INFO:root:Fetched page 357
+INFO:root:Fetched page 358
+INFO:root:Fetched page 359
+INFO:root:Fetched page 360
+INFO:root:Fetched page 361
+INFO:root:Fetched page 362
+INFO:root:Fetched page 363
+INFO:root:Fetched page 364
+INFO:root:Fetched page 365
+INFO:root:Fetched page 366
+INFO:root:Fetched page 367
+INFO:root:Fetched page 368
+INFO:root:Fetched page 369
+INFO:root:Fetched page 370
+INFO:root:Fetched page 371
+INFO:root:Fetched page 372
+INFO:root:Fetched page 373
+INFO:root:Fetched page 374
+INFO:root:Fetched page 375
+INFO:root:Fetched page 376
+INFO:root:Fetched page 377
+INFO:root:Fetched page 378
+INFO:root:Fetched page 379
+INFO:root:Fetched page 380
+INFO:root:Fetched page 381
+INFO:root:Fetched page 382
+INFO:root:Fetched page 383
+INFO:root:Fetched page 384
+INFO:root:Fetched page 385
+INFO:root:Fetched page 386
+INFO:root:Fetched page 387
+INFO:root:Fetched page 388
+INFO:root:Fetched page 389
+INFO:root:Fetched page 390
+INFO:root:Fetched page 391
+INFO:root:Fetched page 392
+INFO:root:Fetched page 393
+INFO:root:Fetched page 394
+INFO:root:Fetched page 395
+INFO:root:Fetched page 396
+INFO:root:Fetched page 397
+INFO:root:Fetched page 398
+INFO:root:Fetched page 399
+INFO:root:Fetched page 400
+INFO:root:Fetched page 401
+ERROR:root:An error occurred: 'results'
+INFO:root:8 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C35578498
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74172769
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C141379421
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C144559511
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C68387754
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C150547873
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C58489278
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C125403950
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C99476002
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C41045048
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778715743
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C148483581
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776502983
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C114289077
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74064498
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C311688
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C58328972
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C41608201
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C67186912
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C151406439
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84462506
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C144543869
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C45235069
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C509933004
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C47822265
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C557945733
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C118530786
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C157915830
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71928629
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C127705205
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779904517
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C55439883
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C75949130
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C1668388
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C195324797
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C106516650
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:Fetched page 7
+INFO:root:Fetched page 8
+INFO:root:Fetched page 9
+INFO:root:Fetched page 10
+INFO:root:Fetched page 11
+INFO:root:Fetched page 12
+INFO:root:Fetched page 13
+INFO:root:Fetched page 14
+INFO:root:Fetched page 15
+INFO:root:Fetched page 16
+INFO:root:Fetched page 17
+INFO:root:Fetched page 18
+INFO:root:Fetched page 19
+INFO:root:Fetched page 20
+INFO:root:Fetched page 21
+INFO:root:Fetched page 22
+INFO:root:Fetched page 23
+INFO:root:Fetched page 24
+INFO:root:Fetched page 25
+INFO:root:Fetched page 26
+INFO:root:Fetched page 27
+INFO:root:Fetched page 28
+INFO:root:Fetched page 29
+INFO:root:Fetched page 30
+INFO:root:Fetched page 31
+INFO:root:Fetched page 32
+INFO:root:Fetched page 33
+INFO:root:Fetched page 34
+INFO:root:Fetched page 35
+INFO:root:Fetched page 36
+INFO:root:Fetched page 37
+INFO:root:Fetched page 38
+INFO:root:Fetched page 39
+INFO:root:Fetched page 40
+INFO:root:Fetched page 41
+INFO:root:Fetched page 42
+INFO:root:Fetched page 43
+INFO:root:Fetched page 44
+INFO:root:Fetched page 45
+INFO:root:Fetched page 46
+INFO:root:Fetched page 47
+INFO:root:Fetched page 48
+INFO:root:Fetched page 49
+INFO:root:Fetched page 50
+INFO:root:Fetched page 51
+INFO:root:Fetched page 52
+INFO:root:Fetched page 53
+INFO:root:Fetched page 54
+INFO:root:Fetched page 55
+INFO:root:Fetched page 56
+INFO:root:Fetched page 57
+INFO:root:Fetched page 58
+INFO:root:Fetched page 59
+INFO:root:Fetched page 60
+INFO:root:Fetched page 61
+INFO:root:Fetched page 62
+INFO:root:Fetched page 63
+INFO:root:Fetched page 64
+INFO:root:Fetched page 65
+INFO:root:Fetched page 66
+INFO:root:Fetched page 67
+INFO:root:Fetched page 68
+INFO:root:Fetched page 69
+INFO:root:Fetched page 70
+INFO:root:Fetched page 71
+INFO:root:Fetched page 72
+INFO:root:Fetched page 73
+INFO:root:Fetched page 74
+INFO:root:Fetched page 75
+INFO:root:Fetched page 76
+INFO:root:Fetched page 77
+INFO:root:Fetched page 78
+INFO:root:Fetched page 79
+INFO:root:Fetched page 80
+INFO:root:Fetched page 81
+INFO:root:Fetched page 82
+INFO:root:Fetched page 83
+INFO:root:Fetched page 84
+INFO:root:Fetched page 85
+INFO:root:Fetched page 86
+INFO:root:Fetched page 87
+INFO:root:Fetched page 88
+INFO:root:Fetched page 89
+INFO:root:Fetched page 90
+INFO:root:Fetched page 91
+INFO:root:Fetched page 92
+INFO:root:Fetched page 93
+INFO:root:Fetched page 94
+INFO:root:Fetched page 95
+INFO:root:Fetched page 96
+INFO:root:Fetched page 97
+INFO:root:Fetched page 98
+INFO:root:Fetched page 99
+INFO:root:Fetched page 100
+INFO:root:Fetched page 101
+INFO:root:Fetched page 102
+INFO:root:Fetched page 103
+INFO:root:Fetched page 104
+INFO:root:Fetched page 105
+INFO:root:Fetched page 106
+INFO:root:Fetched page 107
+INFO:root:Fetched page 108
+INFO:root:Fetched page 109
+INFO:root:Fetched page 110
+INFO:root:Fetched page 111
+INFO:root:Fetched page 112
+INFO:root:Fetched page 113
+INFO:root:Fetched page 114
+INFO:root:Fetched page 115
+INFO:root:Fetched page 116
+INFO:root:Fetched page 117
+INFO:root:Fetched page 118
+INFO:root:Fetched page 119
+INFO:root:Fetched page 120
+INFO:root:Fetched page 121
+INFO:root:Fetched page 122
+INFO:root:Fetched page 123
+INFO:root:Fetched page 124
+INFO:root:Fetched page 125
+INFO:root:Fetched page 126
+INFO:root:Fetched page 127
+INFO:root:Fetched page 128
+INFO:root:Fetched page 129
+INFO:root:Fetched page 130
+INFO:root:Fetched page 131
+INFO:root:Fetched page 132
+INFO:root:Fetched page 133
+INFO:root:Fetched page 134
+INFO:root:Fetched page 135
+INFO:root:Fetched page 136
+INFO:root:Fetched page 137
+INFO:root:Fetched page 138
+INFO:root:Fetched page 139
+INFO:root:Fetched page 140
+INFO:root:Fetched page 141
+INFO:root:Fetched page 142
+INFO:root:Fetched page 143
+INFO:root:Fetched page 144
+INFO:root:Fetched page 145
+INFO:root:Fetched page 146
+INFO:root:Fetched page 147
+INFO:root:Fetched page 148
+INFO:root:Fetched page 149
+INFO:root:Fetched page 150
+INFO:root:Fetched page 151
+INFO:root:Fetched page 152
+INFO:root:Fetched page 153
+INFO:root:Fetched page 154
+INFO:root:Fetched page 155
+INFO:root:Fetched page 156
+INFO:root:Fetched page 157
+INFO:root:Fetched page 158
+INFO:root:Fetched page 159
+INFO:root:Fetched page 160
+INFO:root:Fetched page 161
+INFO:root:Fetched page 162
+INFO:root:Fetched page 163
+INFO:root:Fetched page 164
+INFO:root:Fetched page 165
+INFO:root:Fetched page 166
+INFO:root:Fetched page 167
+INFO:root:Fetched page 168
+INFO:root:Fetched page 169
+INFO:root:Fetched page 170
+INFO:root:Fetched page 171
+INFO:root:Fetched page 172
+INFO:root:Fetched page 173
+INFO:root:Fetched page 174
+INFO:root:Fetched page 175
+INFO:root:Fetched page 176
+INFO:root:Fetched page 177
+INFO:root:Fetched page 178
+INFO:root:Fetched page 179
+INFO:root:Fetched page 180
+INFO:root:Fetched page 181
+INFO:root:Fetched page 182
+INFO:root:Fetched page 183
+INFO:root:Fetched page 184
+INFO:root:Fetched page 185
+INFO:root:Fetched page 186
+INFO:root:Fetched page 187
+INFO:root:Fetched page 188
+INFO:root:Fetched page 189
+INFO:root:Fetched page 190
+INFO:root:Fetched page 191
+INFO:root:Fetched page 192
+INFO:root:Fetched page 193
+INFO:root:Fetched page 194
+INFO:root:Fetched page 195
+INFO:root:Fetched page 196
+INFO:root:Fetched page 197
+INFO:root:Fetched page 198
+INFO:root:Fetched page 199
+INFO:root:Fetched page 200
+INFO:root:Fetched page 201
+INFO:root:Fetched page 202
+INFO:root:Fetched page 203
+INFO:root:Fetched page 204
+INFO:root:Fetched page 205
+INFO:root:Fetched page 206
+INFO:root:Fetched page 207
+INFO:root:Fetched page 208
+INFO:root:Fetched page 209
+INFO:root:Fetched page 210
+INFO:root:Fetched page 211
+INFO:root:Fetched page 212
+INFO:root:Fetched page 213
+INFO:root:Fetched page 214
+INFO:root:Fetched page 215
+INFO:root:Fetched page 216
+INFO:root:Fetched page 217
+INFO:root:Fetched page 218
+INFO:root:Fetched page 219
+INFO:root:Fetched page 220
+INFO:root:Fetched page 221
+INFO:root:Fetched page 222
+INFO:root:Fetched page 223
+INFO:root:Fetched page 224
+INFO:root:Fetched page 225
+INFO:root:Fetched page 226
+INFO:root:Fetched page 227
+INFO:root:Fetched page 228
+INFO:root:Fetched page 229
+INFO:root:Fetched page 230
+INFO:root:Fetched page 231
+INFO:root:Fetched page 232
+INFO:root:Fetched page 233
+INFO:root:Fetched page 234
+INFO:root:Fetched page 235
+INFO:root:Fetched page 236
+INFO:root:Fetched page 237
+INFO:root:Fetched page 238
+INFO:root:Fetched page 239
+INFO:root:Fetched page 240
+INFO:root:Fetched page 241
+INFO:root:Fetched page 242
+INFO:root:Fetched page 243
+INFO:root:Fetched page 244
+INFO:root:Fetched page 245
+INFO:root:Fetched page 246
+INFO:root:Fetched page 247
+INFO:root:Fetched page 248
+INFO:root:Fetched page 249
+INFO:root:Fetched page 250
+INFO:root:Fetched page 251
+INFO:root:Fetched page 252
+INFO:root:Fetched page 253
+INFO:root:Fetched page 254
+INFO:root:Fetched page 255
+INFO:root:Fetched page 256
+INFO:root:Fetched page 257
+INFO:root:Fetched page 258
+INFO:root:Fetched page 259
+INFO:root:Fetched page 260
+INFO:root:Fetched page 261
+INFO:root:Fetched page 262
+INFO:root:Fetched page 263
+INFO:root:Fetched page 264
+INFO:root:Fetched page 265
+INFO:root:Fetched page 266
+INFO:root:Fetched page 267
+INFO:root:Fetched page 268
+INFO:root:Fetched page 269
+INFO:root:Fetched page 270
+INFO:root:Fetched page 271
+INFO:root:Fetched page 272
+INFO:root:Fetched page 273
+INFO:root:Fetched page 274
+INFO:root:Fetched page 275
+INFO:root:Fetched page 276
+INFO:root:Fetched page 277
+INFO:root:Fetched page 278
+INFO:root:Fetched page 279
+INFO:root:Fetched page 280
+INFO:root:Fetched page 281
+INFO:root:Fetched page 282
+INFO:root:Fetched page 283
+INFO:root:Fetched page 284
+INFO:root:Fetched page 285
+INFO:root:Fetched page 286
+INFO:root:Fetched page 287
+INFO:root:Fetched page 288
+INFO:root:Fetched page 289
+INFO:root:Fetched page 290
+INFO:root:Fetched page 291
+INFO:root:Fetched page 292
+INFO:root:Fetched page 293
+INFO:root:Fetched page 294
+INFO:root:Fetched page 295
+INFO:root:Fetched page 296
+INFO:root:Fetched page 297
+INFO:root:Fetched page 298
+INFO:root:Fetched page 299
+INFO:root:Fetched page 300
+INFO:root:Fetched page 301
+INFO:root:Fetched page 302
+INFO:root:Fetched page 303
+INFO:root:Fetched page 304
+INFO:root:Fetched page 305
+INFO:root:Fetched page 306
+INFO:root:Fetched page 307
+INFO:root:Fetched page 308
+INFO:root:Fetched page 309
+INFO:root:Fetched page 310
+INFO:root:Fetched page 311
+INFO:root:Fetched page 312
+INFO:root:Fetched page 313
+INFO:root:Fetched page 314
+INFO:root:Fetched page 315
+INFO:root:Fetched page 316
+INFO:root:Fetched page 317
+INFO:root:Fetched page 318
+INFO:root:Fetched page 319
+INFO:root:Fetched page 320
+INFO:root:Fetched page 321
+INFO:root:Fetched page 322
+INFO:root:Fetched page 323
+INFO:root:Fetched page 324
+INFO:root:Fetched page 325
+INFO:root:Fetched page 326
+INFO:root:Fetched page 327
+INFO:root:Fetched page 328
+INFO:root:Fetched page 329
+INFO:root:Fetched page 330
+INFO:root:Fetched page 331
+INFO:root:Fetched page 332
+INFO:root:Fetched page 333
+INFO:root:Fetched page 334
+INFO:root:Fetched page 335
+INFO:root:Fetched page 336
+INFO:root:Fetched page 337
+INFO:root:Fetched page 338
+INFO:root:Fetched page 339
+INFO:root:Fetched page 340
+INFO:root:Fetched page 341
+INFO:root:Fetched page 342
+INFO:root:Fetched page 343
+INFO:root:Fetched page 344
+INFO:root:Fetched page 345
+INFO:root:Fetched page 346
+INFO:root:Fetched page 347
+INFO:root:Fetched page 348
+INFO:root:Fetched page 349
+INFO:root:Fetched page 350
+INFO:root:Fetched page 351
+INFO:root:Fetched page 352
+INFO:root:Fetched page 353
+INFO:root:Fetched page 354
+INFO:root:Fetched page 355
+INFO:root:Fetched page 356
+INFO:root:Fetched page 357
+INFO:root:Fetched page 358
+INFO:root:Fetched page 359
+INFO:root:Fetched page 360
+INFO:root:Fetched page 361
+INFO:root:Fetched page 362
+INFO:root:Fetched page 363
+INFO:root:Fetched page 364
+INFO:root:Fetched page 365
+INFO:root:Fetched page 366
+INFO:root:Fetched page 367
+INFO:root:Fetched page 368
+INFO:root:Fetched page 369
+INFO:root:Fetched page 370
+INFO:root:Fetched page 371
+INFO:root:Fetched page 372
+INFO:root:Fetched page 373
+INFO:root:Fetched page 374
+INFO:root:Fetched page 375
+INFO:root:Fetched page 376
+INFO:root:Fetched page 377
+INFO:root:Fetched page 378
+INFO:root:Fetched page 379
+INFO:root:Fetched page 380
+INFO:root:Fetched page 381
+INFO:root:Fetched page 382
+INFO:root:Fetched page 383
+INFO:root:Fetched page 384
+INFO:root:Fetched page 385
+INFO:root:Fetched page 386
+INFO:root:Fetched page 387
+INFO:root:Fetched page 388
+INFO:root:Fetched page 389
+INFO:root:Fetched page 390
+INFO:root:Fetched page 391
+INFO:root:Fetched page 392
+INFO:root:Fetched page 393
+INFO:root:Fetched page 394
+INFO:root:Fetched page 395
+INFO:root:Fetched page 396
+INFO:root:Fetched page 397
+INFO:root:Fetched page 398
+INFO:root:Fetched page 399
+INFO:root:Fetched page 400
+INFO:root:Fetched page 401
+ERROR:root:An error occurred: 'results'
+INFO:root:0 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97541855
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C20136886
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C3770464
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780092901
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C163294075
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84174578
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C16910744
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C106934330
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C93518851
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84525736
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C21442007
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780522230
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C162319229
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778770139
+ERROR:root:An error occurred: ('Connection aborted.', TimeoutError(110, 'Connection timed out'))
+INFO:root:0 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C68649174
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C94124525
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198433322
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C207347870
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83665646
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C4554734
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C128487930
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C166955791
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C119560385
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87360688
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C90734943
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C137996800
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C168110828
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C151319957
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C63540848
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C78548338
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C42090638
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C68339613
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C26713055
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C131017901
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780233690
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C21959979
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C173018170
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C203663800
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19067145
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C155672457
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C26771246
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C57863236
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C133386390
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C112950240
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780841128
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C6260449
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C30080830
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C108225325
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C92880739
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C513720949
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C146088050
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C181966813
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19474535
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779372316
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C204366326
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C46362747
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C127172972
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C78434282
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C42067758
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97346530
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C30407753
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C523993062
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C186187911
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C79794668
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C124657808
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C107365816
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C172100665
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C178405089
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97126364
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C523214423
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C39519442
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C192191005
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C13274807
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C200990466
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C134121241
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C59085676
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71039073
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C20788544
+INFO:root:Fetched page 1
+ERROR:root:An error occurred: Expecting value: line 1 column 1 (char 0)
+INFO:root:23 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149912024
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780357685
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C96035792
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180016635
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C160671074
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74214498
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C100082104
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781052500
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C120398109
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C25197100
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87210426
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C79186407
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C186541917
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C202374169
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C67203356
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C134514944
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110879396
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C21141959
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C31555180
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C555451288
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C138631740
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C107816215
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C168056786
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C104663316
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C6556556
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C37292000
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C197404232
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C193867417
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C206991015
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C196806460
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C542268612
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C43486711
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C85476182
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779751980
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2988805333
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8673954
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776798109
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C502230775
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87343466
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777813233
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778540859
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97549433
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777230088
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780824857
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776432453
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C549387045
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778343803
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C136478896
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71139939
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779870107
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C539932907
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C75302062
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C106487976
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C38398224
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C553756173
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C37977207
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C5335593
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C132976073
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C65590680
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C204323151
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C140676511
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C47463417
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C185154212
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C175854130
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C176666156
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149342994
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C167310744
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778958987
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C45206210
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C99595764
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C108586683
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180145272
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C4679612
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C126201875
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2265751
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C94293008
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777973245
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777571299
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C26856880
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C504678139
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C204223013
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C500666722
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C184608416
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110367647
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C510052550
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C196715460
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C91129048
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C105382558
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C196029304
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C505241676
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C124385694
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780596425
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C141354745
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C106782819
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778199549
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C23125352
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C38052585
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C104232198
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C534791751
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C150493377
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780722187
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C68381374
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158622935
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C135628077
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780451532
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C165801399
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C148043351
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17500928
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180198813
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C168834538
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C21200559
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83581075
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C69990965
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C96250715
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C24939127
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777552389
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C94061648
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C76177295
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C160892712
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C134146338
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19269812
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C207821765
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C206658404
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C115901376
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C1633027
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C115880899
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C144171764
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C16389437
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C13662910
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778449969
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17829176
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C119947313
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C13393347
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C111603439
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C91575142
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C526921623
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198783460
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C57442070
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C147455438
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C73000952
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C6802819
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17281054
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C15952604
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C541104983
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C30403606
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84655787
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C138777275
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C4311470
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C76563973
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C29829512
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C156622251
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778813691
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C539828613
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97053079
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C56318395
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C34972735
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C107706546
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C72921944
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C56200935
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C70477161
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C184720557
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C76886044
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C206588197
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C31858485
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C162284963
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C188198153
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C53991642
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C52121051
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8625798
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74448152
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C188897
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C49892992
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C18762648
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778902805
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C89690796
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C140311924
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87345402
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777551076
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C520301825
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C190960625
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C22507642
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C81299745
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778123984
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C203311528
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C206729178
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C79379906
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C159063594
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C186295008
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C113740112
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C34146451
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C116067010
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C1034443
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C47177190
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C88610354
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780876879
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C187288502
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C122980154
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C668760
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C100521375
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C11012388
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C10050518
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778087770
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C547764534
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C142853389
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C16443162
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781206393
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C37228920
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780805685
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2718322
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C130064352
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777200299
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C164850336
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C44877443
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C91034043
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777093970
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177291462
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C114010052
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8443397
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776780178
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2983454672
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780733359
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777363581
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C148762608
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780723820
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C79544238
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C503872463
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779720271
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17077164
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778527774
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C518914266
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C124490489
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83546350
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779651940
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110131835
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C20387591
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C36727532
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C102587632
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777021972
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C28858896
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C171606756
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C542530943
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C25498285
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780586970
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779448149
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C12770488
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C121446783
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C145912823
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780820201
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C139265228
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74672266
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C160022790
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776420229
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17235551
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781460075
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777082460
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83974742
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C545706735
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C23213687
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C100660578
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C58693492
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779978075
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778794669
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2775842073
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777080012
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87868495
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C123273963
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779885105
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C53173841
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C202565627
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778999518
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779727114
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778047097
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781118164
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777515770
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781041448
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198451711
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779281540
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:Fetched page 7
+INFO:root:Fetched page 8
+INFO:root:Fetched page 9
+INFO:root:Fetched page 10
+INFO:root:Fetched page 11
+INFO:root:Fetched page 12
+INFO:root:Fetched page 13
+INFO:root:Fetched page 14
+INFO:root:Fetched page 15
+INFO:root:Fetched page 16
+INFO:root:Fetched page 17
+INFO:root:Fetched page 18
+INFO:root:Fetched page 19
+INFO:root:Fetched page 20
+INFO:root:Fetched page 21
+INFO:root:Fetched page 22
+INFO:root:Fetched page 23
+INFO:root:Fetched page 24
+INFO:root:Fetched page 25
+INFO:root:Fetched page 26
+INFO:root:Fetched page 27
+INFO:root:Fetched page 28
+INFO:root:Fetched page 29
+INFO:root:Fetched page 30
+INFO:root:Fetched page 31
+INFO:root:Fetched page 32
+INFO:root:Fetched page 33
+INFO:root:Fetched page 34
+INFO:root:Fetched page 35
+INFO:root:Fetched page 36
+INFO:root:Fetched page 37
+INFO:root:Fetched page 38
+INFO:root:Fetched page 39
+INFO:root:Fetched page 40
+INFO:root:Fetched page 41
+INFO:root:Fetched page 42
+INFO:root:Fetched page 43
+INFO:root:Fetched page 44
+INFO:root:Fetched page 45
+INFO:root:Fetched page 46
+INFO:root:Fetched page 47
+INFO:root:Fetched page 48
+INFO:root:Fetched page 49
+INFO:root:Fetched page 50
+INFO:root:Fetched page 51
+INFO:root:Fetched page 52
+INFO:root:Fetched page 53
+INFO:root:Fetched page 54
+INFO:root:Fetched page 55
+INFO:root:Fetched page 56
+INFO:root:Fetched page 57
+INFO:root:Fetched page 58
+INFO:root:Fetched page 59
+INFO:root:Fetched page 60
+INFO:root:Fetched page 61
+INFO:root:Fetched page 62
+INFO:root:Fetched page 63
+INFO:root:Fetched page 64
+INFO:root:Fetched page 65
+INFO:root:Fetched page 66
+INFO:root:Fetched page 67
+INFO:root:Fetched page 68
+INFO:root:Fetched page 69
+INFO:root:Fetched page 70
+INFO:root:Fetched page 71
+INFO:root:Fetched page 72
+INFO:root:Fetched page 73
+INFO:root:Fetched page 74
+INFO:root:Fetched page 75
+INFO:root:Fetched page 76
+INFO:root:Fetched page 77
+INFO:root:Fetched page 78
+INFO:root:Fetched page 79
+INFO:root:Fetched page 80
+INFO:root:Fetched page 81
+INFO:root:Fetched page 82
+INFO:root:Fetched page 83
+INFO:root:Fetched page 84
+INFO:root:Fetched page 85
+INFO:root:Fetched page 86
+INFO:root:Fetched page 87
+INFO:root:Fetched page 88
+INFO:root:Fetched page 89
+INFO:root:Fetched page 90
+INFO:root:Fetched page 91
+INFO:root:Fetched page 92
+INFO:root:Fetched page 93
+INFO:root:Fetched page 94
+INFO:root:Fetched page 95
+INFO:root:Fetched page 96
+INFO:root:Fetched page 97
+INFO:root:Fetched page 98
+INFO:root:Fetched page 99
+INFO:root:Fetched page 100
+INFO:root:Fetched page 101
+INFO:root:Fetched page 102
+INFO:root:Fetched page 103
+INFO:root:Fetched page 104
+INFO:root:Fetched page 105
+INFO:root:Fetched page 106
+INFO:root:Fetched page 107
+INFO:root:Fetched page 108
+INFO:root:Fetched page 109
+INFO:root:Fetched page 110
+INFO:root:Fetched page 111
+INFO:root:Fetched page 112
+INFO:root:Fetched page 113
+INFO:root:Fetched page 114
+INFO:root:Fetched page 115
+INFO:root:Fetched page 116
+INFO:root:Fetched page 117
+INFO:root:Fetched page 118
+INFO:root:Fetched page 119
+INFO:root:Fetched page 120
+INFO:root:Fetched page 121
+INFO:root:Fetched page 122
+INFO:root:Fetched page 123
+INFO:root:Fetched page 124
+INFO:root:Fetched page 125
+INFO:root:Fetched page 126
+INFO:root:Fetched page 127
+INFO:root:Fetched page 128
+INFO:root:Fetched page 129
+INFO:root:Fetched page 130
+INFO:root:Fetched page 131
+INFO:root:Fetched page 132
+INFO:root:Fetched page 133
+INFO:root:Fetched page 134
+INFO:root:Fetched page 135
+INFO:root:Fetched page 136
+INFO:root:Fetched page 137
+INFO:root:Fetched page 138
+INFO:root:Fetched page 139
+INFO:root:Fetched page 140
+INFO:root:Fetched page 141
+INFO:root:Fetched page 142
+INFO:root:Fetched page 143
+INFO:root:Fetched page 144
+INFO:root:Fetched page 145
+INFO:root:Fetched page 146
+INFO:root:Fetched page 147
+INFO:root:Fetched page 148
+INFO:root:Fetched page 149
+INFO:root:Fetched page 150
+INFO:root:Fetched page 151
+INFO:root:Fetched page 152
+INFO:root:Fetched page 153
+INFO:root:Fetched page 154
+INFO:root:Fetched page 155
+INFO:root:Fetched page 156
+INFO:root:Fetched page 157
+INFO:root:Fetched page 158
+INFO:root:Fetched page 159
+INFO:root:Fetched page 160
+INFO:root:Fetched page 161
+INFO:root:Fetched page 162
+INFO:root:Fetched page 163
+INFO:root:Fetched page 164
+INFO:root:Fetched page 165
+INFO:root:Fetched page 166
+INFO:root:Fetched page 167
+INFO:root:Fetched page 168
+INFO:root:Fetched page 169
+INFO:root:Fetched page 170
+INFO:root:Fetched page 171
+INFO:root:Fetched page 172
+INFO:root:Fetched page 173
+INFO:root:Fetched page 174
+INFO:root:Fetched page 175
+INFO:root:Fetched page 176
+INFO:root:Fetched page 177
+INFO:root:Fetched page 178
+INFO:root:Fetched page 179
+INFO:root:Fetched page 180
+INFO:root:Fetched page 181
+INFO:root:Fetched page 182
+INFO:root:Fetched page 183
+INFO:root:Fetched page 184
+INFO:root:Fetched page 185
+INFO:root:Fetched page 186
+INFO:root:Fetched page 187
+INFO:root:Fetched page 188
+INFO:root:Fetched page 189
+INFO:root:Fetched page 190
+INFO:root:Fetched page 191
+INFO:root:Fetched page 192
+INFO:root:Fetched page 193
+INFO:root:Fetched page 194
+INFO:root:Fetched page 195
+INFO:root:Fetched page 196
+INFO:root:Fetched page 197
+INFO:root:Fetched page 198
+INFO:root:Fetched page 199
+INFO:root:Fetched page 200
+INFO:root:Fetched page 201
+INFO:root:Fetched page 202
+INFO:root:Fetched page 203
+INFO:root:Fetched page 204
+INFO:root:Fetched page 205
+INFO:root:Fetched page 206
+INFO:root:Fetched page 207
+INFO:root:Fetched page 208
+INFO:root:Fetched page 209
+INFO:root:Fetched page 210
+INFO:root:Fetched page 211
+INFO:root:Fetched page 212
+INFO:root:Fetched page 213
+INFO:root:Fetched page 214
+INFO:root:Fetched page 215
+INFO:root:Fetched page 216
+INFO:root:Fetched page 217
+INFO:root:Fetched page 218
+INFO:root:Fetched page 219
+INFO:root:Fetched page 220
+INFO:root:Fetched page 221
+INFO:root:Fetched page 222
+INFO:root:Fetched page 223
+INFO:root:Fetched page 224
+INFO:root:Fetched page 225
+INFO:root:Fetched page 226
+INFO:root:Fetched page 227
+INFO:root:Fetched page 228
+INFO:root:Fetched page 229
+INFO:root:Fetched page 230
+INFO:root:Fetched page 231
+INFO:root:Fetched page 232
+INFO:root:Fetched page 233
+INFO:root:Fetched page 234
+INFO:root:Fetched page 235
+INFO:root:Fetched page 236
+INFO:root:Fetched page 237
+INFO:root:Fetched page 238
+INFO:root:Fetched page 239
+INFO:root:Fetched page 240
+INFO:root:Fetched page 241
+INFO:root:Fetched page 242
+INFO:root:Fetched page 243
+INFO:root:Fetched page 244
+INFO:root:Fetched page 245
+INFO:root:Fetched page 246
+INFO:root:Fetched page 247
+INFO:root:Fetched page 248
+INFO:root:Fetched page 249
+INFO:root:Fetched page 250
+INFO:root:Fetched page 251
+INFO:root:Fetched page 252
+INFO:root:Fetched page 253
+INFO:root:Fetched page 254
+INFO:root:Fetched page 255
+INFO:root:Fetched page 256
+INFO:root:Fetched page 257
+INFO:root:Fetched page 258
+INFO:root:Fetched page 259
+INFO:root:Fetched page 260
+INFO:root:Fetched page 261
+INFO:root:Fetched page 262
+INFO:root:Fetched page 263
+INFO:root:Fetched page 264
+INFO:root:Fetched page 265
+INFO:root:Fetched page 266
+INFO:root:Fetched page 267
+INFO:root:Fetched page 268
+INFO:root:Fetched page 269
+INFO:root:Fetched page 270
+INFO:root:Fetched page 271
+INFO:root:Fetched page 272
+INFO:root:Fetched page 273
+INFO:root:Fetched page 274
+INFO:root:Fetched page 275
+INFO:root:Fetched page 276
+INFO:root:Fetched page 277
+INFO:root:Fetched page 278
+INFO:root:Fetched page 279
+INFO:root:Fetched page 280
+INFO:root:Fetched page 281
+INFO:root:Fetched page 282
+INFO:root:Fetched page 283
+INFO:root:Fetched page 284
+INFO:root:Fetched page 285
+INFO:root:Fetched page 286
+INFO:root:Fetched page 287
+INFO:root:Fetched page 288
+INFO:root:Fetched page 289
+INFO:root:Fetched page 290
+INFO:root:Fetched page 291
+INFO:root:Fetched page 292
+INFO:root:Fetched page 293
+INFO:root:Fetched page 294
+INFO:root:Fetched page 295
+INFO:root:Fetched page 296
+INFO:root:Fetched page 297
+INFO:root:Fetched page 298
+INFO:root:Fetched page 299
+INFO:root:Fetched page 300
+INFO:root:Fetched page 301
+INFO:root:Fetched page 302
+INFO:root:Fetched page 303
+INFO:root:Fetched page 304
+INFO:root:Fetched page 305
+INFO:root:Fetched page 306
+INFO:root:Fetched page 307
+INFO:root:Fetched page 308
+INFO:root:Fetched page 309
+INFO:root:Fetched page 310
+INFO:root:Fetched page 311
+INFO:root:Fetched page 312
+INFO:root:Fetched page 313
+INFO:root:Fetched page 314
+INFO:root:Fetched page 315
+INFO:root:Fetched page 316
+INFO:root:Fetched page 317
+INFO:root:Fetched page 318
+INFO:root:Fetched page 319
+INFO:root:Fetched page 320
+INFO:root:Fetched page 321
+INFO:root:Fetched page 322
+INFO:root:Fetched page 323
+INFO:root:Fetched page 324
+INFO:root:Fetched page 325
+INFO:root:Fetched page 326
+INFO:root:Fetched page 327
+INFO:root:Fetched page 328
+INFO:root:Fetched page 329
+INFO:root:Fetched page 330
+INFO:root:Fetched page 331
+INFO:root:Fetched page 332
+INFO:root:Fetched page 333
+INFO:root:Fetched page 334
+INFO:root:Fetched page 335
+INFO:root:Fetched page 336
+INFO:root:Fetched page 337
+INFO:root:Fetched page 338
+INFO:root:Fetched page 339
+INFO:root:Fetched page 340
+INFO:root:Fetched page 341
+INFO:root:Fetched page 342
+INFO:root:Fetched page 343
+INFO:root:Fetched page 344
+INFO:root:Fetched page 345
+INFO:root:Fetched page 346
+INFO:root:Fetched page 347
+INFO:root:Fetched page 348
+INFO:root:Fetched page 349
+INFO:root:Fetched page 350
+INFO:root:Fetched page 351
+INFO:root:Fetched page 352
+INFO:root:Fetched page 353
+INFO:root:Fetched page 354
+INFO:root:Fetched page 355
+INFO:root:Fetched page 356
+INFO:root:Fetched page 357
+INFO:root:Fetched page 358
+INFO:root:Fetched page 359
+INFO:root:Fetched page 360
+INFO:root:Fetched page 361
+INFO:root:Fetched page 362
+INFO:root:Fetched page 363
+INFO:root:Fetched page 364
+INFO:root:Fetched page 365
+INFO:root:Fetched page 366
+INFO:root:Fetched page 367
+INFO:root:Fetched page 368
+INFO:root:Fetched page 369
+INFO:root:Fetched page 370
+INFO:root:Fetched page 371
+INFO:root:Fetched page 372
+INFO:root:Fetched page 373
+INFO:root:Fetched page 374
+INFO:root:Fetched page 375
+INFO:root:Fetched page 376
+INFO:root:Fetched page 377
+INFO:root:Fetched page 378
+INFO:root:Fetched page 379
+INFO:root:Fetched page 380
+INFO:root:Fetched page 381
+INFO:root:Fetched page 382
+INFO:root:Fetched page 383
+INFO:root:Fetched page 384
+INFO:root:Fetched page 385
+INFO:root:Fetched page 386
+INFO:root:Fetched page 387
+INFO:root:Fetched page 388
+INFO:root:Fetched page 389
+INFO:root:Fetched page 390
+INFO:root:Fetched page 391
+INFO:root:Fetched page 392
+INFO:root:Fetched page 393
+INFO:root:Fetched page 394
+INFO:root:Fetched page 395
+INFO:root:Fetched page 396
+INFO:root:Fetched page 397
+INFO:root:Fetched page 398
+INFO:root:Fetched page 399
+INFO:root:Fetched page 400
+INFO:root:Fetched page 401
+ERROR:root:An error occurred: 'results'
+INFO:root:45 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777003273
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2987496018
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780656516
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C533356498
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C123960582
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780886150
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779356329
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180872759
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C109260823
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C194409129
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781017439
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C54847362
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C178229462
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781095916
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776954882
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C75603125
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C150710463
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776882836
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777410049
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C25032326
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C181911157
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C108516343
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84976871
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777202286
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83849319
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776412080
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83030740
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781026528
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778319590
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C44493715
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777348757
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C137176749
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C119883117
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C105776082
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778716859
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C168031717
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781092963
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C42525527
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778715236
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C15107229
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777113389
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C153050134
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779652256
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C43571822
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778736484
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780023022
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C125370674
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C45504901
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C13553968
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778541695
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779363792
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C143299363
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C93225998
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C143916079
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778365744
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C43450049
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C145633318
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778498041
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779421357
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779526319
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779103072
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C125411270
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779302386
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C166007726
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C520434653
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C163258240
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C115260700
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C4839761
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C82706917
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C191486275
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C186370098
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C204530211
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C32891209
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C61797465
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198394728
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180205008
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C182310444
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C196558001
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C148898269
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C111337013
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C91881484
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C50517652
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778755073
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C207114421
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C85725439
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781291010
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C181500209
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C60799052
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C38349280
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C54101563
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84114770
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C153385146
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C98444146
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C50335755
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158355884
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C20556612
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149288129
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C152568617
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C78045399
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C39353612
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C76969082
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C107054158
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780226923
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C89611455
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C39920418
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158693339
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C165838908
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C135889238
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C82217956
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C140820882
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C54516573
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C69523127
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C102519508
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C166689943
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C117896860
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C69357855
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779328170
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C93779851
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C10899652
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C188082385
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C90278072
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C184050105
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C184652730
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C172120300
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C74902906
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C135402231
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C44886760
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C33390570
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C24169881
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19694890
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149773537
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C93877712
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C187961010
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C161067210
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C203718221
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177562468
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C94625758
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C160735492
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C120912362
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C554936623
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C151719136
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C18918823
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C137403100
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777351106
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C189326681
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2119116
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C109986646
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C169437150
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C70036468
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C100243477
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C70789860
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C206836424
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C16920402
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C199776023
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C531593650
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C201280247
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781316041
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84309077
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C139621336
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C81631423
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158886217
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C108713360
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776154427
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C107645774
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C83009810
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C65414064
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776034101
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780510313
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C520712124
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C7991579
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778061430
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71750763
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776007630
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C55447825
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778719706
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C46304622
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C147859227
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C121426985
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C44725695
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C184356942
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C521751864
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778139618
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C53813258
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778272461
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C53844881
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C203133693
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778495208
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:Fetched page 7
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C5395021
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C20555606
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C33842695
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110379092
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777688943
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776211767
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C173145845
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C536738050
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C125209646
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777388388
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C141261163
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C84265765
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C3651065
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C164749845
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C200113983
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778682666
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C53001019
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C22467394
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C45237549
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C530175646
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C170706310
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780620123
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C201305675
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777617010
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C122302079
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C514101110
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C67674302
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C48798503
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778449503
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C139838865
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158154518
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777834853
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778348171
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C60671577
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C119513131
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780182762
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780966255
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780608745
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777352838
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779103253
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C29598333
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158016649
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C200288055
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C82279013
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19159745
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C201717286
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71043370
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C153606108
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C127454912
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C68062652
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778173179
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8795937
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17319257
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780262971
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778431023
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177986884
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779018934
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777026412
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C111226992
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C61521584
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C558299567
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C147598955
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779913896
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C41866144
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149209484
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C31170391
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778983918
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C62555980
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777111884
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778444522
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C512170562
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780224610
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110888244
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776949292
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778571376
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780422510
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779010840
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C158129432
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C179420905
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C88199923
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C139043278
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777189325
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776639384
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C528167355
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C175700187
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177897776
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781400479
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780623907
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778447849
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777626052
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777381055
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776554220
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C136810230
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776967331
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C24845683
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C71745522
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778745096
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C178283979
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C5041995
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C58823610
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780110086
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780899237
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C120936955
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19499675
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C133462117
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C48753275
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C28719098
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C12426560
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776542497
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C62354387
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C187691185
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C34388435
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C185429906
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C45555294
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C117220453
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C17825722
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C117251300
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C99844830
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C77553402
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C148220186
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C151201525
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780598303
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C39896193
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C48372109
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780861071
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C195065555
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177148314
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781249084
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C110121322
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C90673727
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8272713
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C6422946
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C179518139
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C132525143
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779318504
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C90119067
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C91602232
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C149441793
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C151376022
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C65409693
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C129848803
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C207467116
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C22679943
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198352243
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778496695
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780990831
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2779384505
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C42058472
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C139945424
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C60798267
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C9376300
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780586882
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198477413
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C27016315
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C87007009
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C129844170
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C156778621
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C57691317
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C122123141
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777016058
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C40636538
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C197055811
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C159886148
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C77350462
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C135252773
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C199631012
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C136119220
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C59364581
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780493683
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C112680207
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C177142836
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C9893847
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778312390
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C142546437
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C159620131
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C181830111
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C55037315
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C197336794
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C8590192
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780378061
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C182306322
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C39389867
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C199521495
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C198082294
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C195487862
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C56995899
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C32896092
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C129361004
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C120527767
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2780821815
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C58546491
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C175025494
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C48243021
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C200870193
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C196083921
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2781426361
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19351080
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2776988154
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2775944032
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C19244329
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C201650216
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C186027771
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C4216890
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C183582576
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C121087249
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C191511416
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+ERROR:root:An error occurred: ('Connection aborted.', TimeoutError(110, 'Connection timed out'))
+INFO:root:34 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C22508944
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777764128
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C69738904
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C86275758
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778253041
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C35532855
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C97509610
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C106306483
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C143910263
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2777769502
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:Fetched page 4
+INFO:root:Fetched page 5
+INFO:root:Fetched page 6
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C2778083465
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
+INFO:root:Retrieving docs for https://openalex.org/C180916674
+INFO:root:Fetched page 1
+INFO:root:Fetched page 2
+INFO:root:Fetched page 3
+INFO:root:50 docs were found.
