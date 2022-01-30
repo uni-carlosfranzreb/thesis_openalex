@@ -107,7 +107,7 @@ class DocRetriever:
       return title + '. ' + abstract
   
 
-def main(vocab_file, subjects_file, n_docs=50, n_file=2000):
+def main(vocab_file, subjects_file, n_docs=100, n_file=3000):
   """ Retrieve 'n_docs' docs for each subject and dump them in the folder
   'data/openalex/docs', with 'n_file' docs per file. n_docs should be a
   factor of n_file. We only check n_file after each subject is done. It can
