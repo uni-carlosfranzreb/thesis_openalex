@@ -4,7 +4,7 @@
 import json
 
 
-def map_subjects(dump_file):
+def map_subjects():
   """ Return a list of dictionaries with the OpenAlex subject ID, the name of
   the subject (valid both in OpenAlex and in the repositories) and the list of
   documents that are indexed with that subject. """
@@ -26,7 +26,8 @@ def map_subjects(dump_file):
           matches[name] = {
             'openalex_id': openalex[name], 'docs': subject['values']
           }
-  json.dump(matches, open(dump_file, 'w'))
+  json.dump(matches, open('data/openalex/repo_mapping.json', 'w'))
+
 
 
 if __name__ == '__main__':
