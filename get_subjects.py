@@ -21,7 +21,7 @@ class SubjectRetriever:
     self.get_fields()
     self.get_level(1)
     self.dump_subjects('data/openalex/subjects.json')
-    for works_limit in [25000, 10000, 5000, 1000, 50]:
+    for works_limit in [25000, 10000, 5000, 1000, 100]:
       logging.info(f'Subjects should at least have {works_limit} works.')
       for level in range(2, 6):
         for ancestor in self.counts:
