@@ -11,6 +11,8 @@ from collections import Counter
 from os import listdir
 import logging
 from time import time
+from string import ascii_lowercase as letters
+
 
 from flair.data import Sentence
 from flair.tokenization import SpacyTokenizer
@@ -18,6 +20,8 @@ from flair.models import SequenceTagger
 
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
+
+import spacy
 
 
 class DocRetriever:
@@ -33,12 +37,12 @@ class DocRetriever:
       'ADV': wordnet.ADV
     }
     self.retrieved = []  # IDs of docs that were retrieved
+    self.stopwords = spacy.load('en_core_web_sm').Defaults.stop_words
   
-  def get_docs(self, url, n=50, process=True):
+  def get_docs(self, url, n=50, process=True, filter=True):
     """ Given the URL leading to the documents of a subject, yield documents
     that are either publications. n is the number of docs that will be yielded.
-    If process=True, the texts will be tokenized, lemmatized and mapped against
-    a vocabulary before being yielded. """
+    If process=True, lemmatize the text; if filter=True, filter the texts. """
     yielded, page = 0, 1
     url += ',type:journal-article&page='
     try:
@@ -53,6 +57,7 @@ class DocRetriever:
             abstract = self.build_abstract(abstract_idx)
             text = self.append_texts(doc['display_name'], abstract)
             data = self.process_text(text) if process is True else text
+            data = self.filter_text(data) if filter is True else data
             yield {
               'data': data,
               'subjects': {s['id']: s['score'] for s in doc['concepts']
@@ -82,6 +87,17 @@ class DocRetriever:
       else:
         lemmas.append(token.text.lower())
     return lemmas
+
+  def filter_text(self, text):
+    """ A word is removed if it either has less than three letters or if it is
+    in the given stopwords list. Check only for lower-cased letters, as the
+    texts were lower-cased during processing. """
+    filtered = []
+    for token in text:
+      cnt_letters = sum([char in letters for char in token])
+      if cnt_letters > 2 and token not in self.stopwords:
+        filtered.append(token)
+    return filtered  
   
   def build_abstract(self, abstract_idx):
     """ Given an abstract as an inverted index, return it as normal text. """
