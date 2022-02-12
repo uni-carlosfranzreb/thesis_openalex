@@ -35,7 +35,7 @@ class DocRetriever:
     }
     self.retrieved = []  # IDs of docs that were retrieved
   
-  def get_docs(self, url, n=50, process=False):
+  def get_docs(self, url, n=50, process=True):
     """ Given the URL leading to the documents of a subject, yield documents
     that are either publications. n is the number of docs that will be yielded.
     If process=True, the texts will be tokenized, lemmatized and mapped against
