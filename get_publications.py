@@ -21,8 +21,7 @@ from nltk.corpus import wordnet
 
 
 class DocRetriever:
-  def __init__(self, vocab_file, subjects_file):
-    self.vocab = json.load(open(vocab_file))
+  def __init__(self, subjects_file):
     self.subjects = json.load(open(subjects_file))
     self.tokenizer = SpacyTokenizer('en_core_web_sm')
     self.lemmatizer = WordNetLemmatizer()
@@ -71,10 +70,7 @@ class DocRetriever:
       return
 
   def process_text(self, text):
-    """ Lower-case the string, lemmatize the words and remove those that don't
-    appear in the vocab. Return the list of remaining words ordered by freq.
-    and by order in the text when tied, without duplicates. Merge title and
-    abstract after building the abstract from the index. """
+    """ Lower-case the string and lemmatize the words. """
     sentence = Sentence(text)
     self.tagger.predict(sentence)
     lemmas = []
@@ -85,12 +81,7 @@ class DocRetriever:
         )
       else:
         lemmas.append(token.text.lower())
-    lemmas_cnt = Counter(lemmas)
-    vocab_lemmas = Counter()
-    for word in lemmas_cnt:
-      if word in self.vocab:
-        vocab_lemmas[word] = lemmas_cnt[word]
-    return [tup[0] for tup in vocab_lemmas.most_common()]
+    return lemmas
   
   def build_abstract(self, abstract_idx):
     """ Given an abstract as an inverted index, return it as normal text. """
@@ -113,12 +104,12 @@ class DocRetriever:
       return title + '. ' + abstract
   
 
-def main(vocab_file, subjects_file, n_docs=100, n_file=3000):
+def main(subjects_file, n_docs=100, n_file=3000):
   """ Retrieve 'n_docs' docs for each subject and dump them in the folder
   'data/openalex/docs', with 'n_file' docs per file. n_docs should be a
   factor of n_file. We only check n_file after each subject is done. It can
   occur that a file has more than n_file docs, but never less. """
-  retriever = DocRetriever(vocab_file, subjects_file)
+  retriever = DocRetriever(subjects_file)
   subjects = json.load(open(subjects_file))
   done = get_done_subjects()
   logging.info(f'{len(done)} subjects have been retrieved already.')
@@ -155,8 +146,5 @@ if __name__ == '__main__':
     level=logging.INFO,
     filename=f'logs/get_publications_{int(time())}.log'
   )
-  vocab_file = 'data/vocab/vocab.json'
   subjects_file = 'data/openalex/subjects.json'
-  main(vocab_file, subjects_file)
-  retriever = DocRetriever(vocab_file)
-  subjects = json.load(open(subjects_file))
+  main(subjects_file)
