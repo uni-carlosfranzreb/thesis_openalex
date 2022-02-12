@@ -21,8 +21,9 @@ from nltk.corpus import wordnet
 
 
 class DocRetriever:
-  def __init__(self, vocab_file):
+  def __init__(self, vocab_file, subjects_file):
     self.vocab = json.load(open(vocab_file))
+    self.subjects = json.load(open(subjects_file))
     self.tokenizer = SpacyTokenizer('en_core_web_sm')
     self.lemmatizer = WordNetLemmatizer()
     self.tagger = SequenceTagger.load('upos-fast')
@@ -32,6 +33,7 @@ class DocRetriever:
       'VERB': wordnet.VERB,
       'ADV': wordnet.ADV
     }
+    self.retrieved = []  # IDs of docs that were retrieved
   
   def get_docs(self, url, n=50, process=False):
     """ Given the URL leading to the documents of a subject, yield documents
@@ -45,6 +47,8 @@ class DocRetriever:
         res = req.get(f'{url}{page}').json()
         logging.info(f'Fetched page {page}')
         for doc in res['results']:
+          if doc['id'] in self.retrieved:
+            continue
           abstract_idx = doc['abstract_inverted_index']
           if abstract_idx is not None:
             abstract = self.build_abstract(abstract_idx)
@@ -52,9 +56,11 @@ class DocRetriever:
             data = self.process_text(text) if process is True else text
             yield {
               'data': data,
-              'subjects': {s['id']: s['score'] for s in doc['concepts']}
+              'subjects': {s['id']: s['score'] for s in doc['concepts']
+                  if s['id'] in self.subjects}
             }
             yielded += 1
+            self.retrieved.append(doc['id'])
             if yielded == n:
               logging.info(f'{yielded} docs were found.')
               return
@@ -112,7 +118,7 @@ def main(vocab_file, subjects_file, n_docs=100, n_file=3000):
   'data/openalex/docs', with 'n_file' docs per file. n_docs should be a
   factor of n_file. We only check n_file after each subject is done. It can
   occur that a file has more than n_file docs, but never less. """
-  retriever = DocRetriever(vocab_file)
+  retriever = DocRetriever(vocab_file, subjects_file)
   subjects = json.load(open(subjects_file))
   done = get_done_subjects()
   logging.info(f'{len(done)} subjects have been retrieved already.')
