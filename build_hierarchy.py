@@ -22,6 +22,22 @@ def correct(doc_folder, subjects_file, dump_folder):
     json.dump(correct_docs, open(f'{dump_folder}/{file}', 'w'))
 
 
+def correct_vecs(doc_folder, subjects_file, dump_folder):
+  """ Correct the hierarchy violations of the files in the given folder, where
+  vectors are stored. The difference with the function above is that there
+  are no subjects in the files. """
+  subjects = json.load(open(subjects_file))
+  for file in listdir(doc_folder):
+    docs = json.load(open(f'{doc_folder}/{file}'))
+    correct_docs = []
+    for doc in docs:
+      correct_docs.append({
+        'data': doc['data'],
+        'subjects': complete(doc['subjects'], subjects)
+      })
+    json.dump(correct_docs, open(f'{dump_folder}/{file}', 'w'))
+
+
 def complete(doc_subjects, all_subjects):
   """ Given the assigned subjects of a document, append the ancestors of each
   subject to the list. """
