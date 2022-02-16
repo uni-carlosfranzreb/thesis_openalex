@@ -6,72 +6,38 @@ import json
 from os import listdir
 
 
-def all_fields(doc_folder, subjects_file):
-  """ Assert that all OpenAlex documents have at least one field assigned
-  to them. """
+def correct(doc_folder, subjects_file, dump_folder):
+  """ Correct the hierarchy violations of the files in the given folder. """
   subjects = json.load(open(subjects_file))
-  fields = []
-  no_field, total = 0, 0
-  for subject, data in subjects.items():
-    if data['level'] == 0:
-      fields.append(subject)
-  assert len(fields) == 19
   for file in listdir(doc_folder):
     docs = json.load(open(f'{doc_folder}/{file}'))
+    correct_docs = {}
     for subject in docs:
+      correct_docs[subject] = []
       for doc in docs[subject]:
-        has_field = False
-        total += 1
-        for subject in doc['subjects']:
-          if subject in fields:
-            has_field = True
-        if not has_field:
-          no_field += 1
-  print(total, no_field)
+        correct_docs[subject].append({
+          'data': doc['data'],
+          'subjects': complete(doc['subjects'], subjects)
+        })
+    json.dump(correct_docs, open(f'{dump_folder}/{file}', 'w'))
 
 
-def build(subjects_file, dump_file):
-  subjects = json.load(open(subjects_file))
-  hierarchy = {}
-  for subject in subjects:
-    hierarchy[subject] = []
-    for ancestor in subjects[subject]['ancestors']:
-      if ancestor['id'] in subjects:
-        hierarchy[subject].append(ancestor['id'])
-  json.dump(hierarchy, open(dump_file, 'w'))
-
-
-def print_stats(subjects_file, hierarchy_file):
-  """ Given a hierarchy, count how many ancestors there are
-  that are not fields. """
-  subjects = json.load(open(subjects_file))
-  hierarchy = json.load(open(hierarchy_file))
-  cnt = 0
-  for subject in hierarchy:
-    for ancestor in hierarchy[subject]:
-      if subjects[ancestor]['level'] > 0:
-        cnt += 1
-  ancestors = sum([len(v) for v in hierarchy.values()])
-  print(f'{ancestors} ancestors in total')
-  print(f'{cnt} ancestors are not fields')
-
-
-def complete_hierarchy(hierarchy_file):
-  """ Assert that the hierarchy is complete, i.e. that the ancestors
-  of ancestors are included in the list. """
-  hierarchy = json.load(open(hierarchy_file))
-  cnt = 0
-  for subject in hierarchy:
-    for ancestor in hierarchy[subject]:
-      for a in hierarchy[ancestor]:
-        if a not in hierarchy[subject]:
-          cnt += 1
-  print(cnt)
+def complete(doc_subjects, all_subjects):
+  """ Given the assigned subjects of a document, append the ancestors of each
+  subject to the list. """
+  complete_subjects = {}
+  for subject, score in doc_subjects.items():
+    complete_subjects[subject] = score
+    for ancestor in all_subjects[subject]['ancestors']:
+      if ancestor['id'] not in doc_subjects:
+        if ancestor['id'] not in complete_subjects:
+          complete_subjects[ancestor['id']] = score
+  return complete_subjects
 
 
 if __name__ == '__main__':
   subjects_file = 'data/openalex/subjects.json'
   hierarchy_file = 'data/openalex/hierarchy.json'
+  dump_folder = 'data/openalex/docs_hierarchy'
   doc_folder = 'data/openalex/docs'
-  # complete_hierarchy(hierarchy_file)
-  all_fields(doc_folder, subjects_file)
+  correct(doc_folder, subjects_file, dump_folder)
