@@ -57,4 +57,4 @@ if __name__ == '__main__':
   dump_folder = 'data/openalex/docs_hierarchy'
   doc_folder = 'data/openalex/docs'
   vecs_folder = 'data/openalex/vecs'
-  correct(vecs_folder, subjects_file, vecs_folder)
+  correct_vecs(vecs_folder, subjects_file, vecs_folder)
